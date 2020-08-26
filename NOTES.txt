@@ -1,0 +1,13 @@
+
+
+
+Origin: https://community.bistudio.com/wiki/Profile
+
+File: Server_1.Arma3Profile
+This holds the custom difficulty settings for the servers.
+
+
+File: Server_1.var.Arma3Profile
+Do Not Edit: (Not in this repo)
+This holds ace/mod settings but should not be edited - it is in binnary format.
+Editing this can break the settings - Edit within the game by using the server.
