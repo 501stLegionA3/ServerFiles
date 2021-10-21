@@ -68,11 +68,11 @@ force ace_noradio_enabled = true;
 ace_parachute_hideAltimeter = true;
 
 // ACE Cook off
-force ace_cookoff_ammoCookoffDuration = 1;
-force ace_cookoff_enable = 0;
-force ace_cookoff_enableAmmobox = false;
-force ace_cookoff_enableAmmoCookoff = false;
-force ace_cookoff_probabilityCoef = 1;
+ace_cookoff_ammoCookoffDuration = 1;
+ace_cookoff_enable = 0;
+ace_cookoff_enableAmmobox = false;
+ace_cookoff_enableAmmoCookoff = false;
+ace_cookoff_probabilityCoef = 1;
 
 // ACE Crew Served Weapons
 force ace_csw_ammoHandling = 2;
@@ -293,13 +293,13 @@ force ace_nightvision_noiseScaling = 0;
 ace_nightvision_shutterEffects = true;
 
 // ACE Overheating
-force ace_overheating_displayTextOnJam = true;
-force ace_overheating_enabled = true;
-force ace_overheating_overheatingDispersion = true;
+ace_overheating_displayTextOnJam = true;
+ace_overheating_enabled = true;
+ace_overheating_overheatingDispersion = true;
 ace_overheating_showParticleEffects = false;
-force force ace_overheating_showParticleEffectsForEveryone = false;
-force ace_overheating_unJamFailChance = 0.1;
-force ace_overheating_unJamOnreload = false;
+ace_overheating_showParticleEffectsForEveryone = false;
+ace_overheating_unJamFailChance = 0.1;
+ace_overheating_unJamOnreload = false;
 
 // ACE Pointing
 force ace_finger_enabled = false;
